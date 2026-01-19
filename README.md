@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Axel Frederick Félix Jiménez
 
-🎓 **MSc Student in Computer Science (AI) @ CINVESTAV**  
-🎓 **BSc in Computer Systems Engineering @ IPN**  
+🎓 **MSc Student in Computer Science CINVESTAV**  
+🎓 **BSc in Computer Systems Engineering IPN**  
 🤖 **AI Researcher | Data Scientist | Intelligent Systems**
 
 ---
@@ -36,7 +36,7 @@ Linux · Git · Scientific Computing
 
 ---
 
-## 📄 Publications
+## 📄 Recent Publications
 
 - **Integration of YOLOv8 Small and MobileNet V3 Large for Efficient Bird Detection**  
   *MDPI AI Journal*  
