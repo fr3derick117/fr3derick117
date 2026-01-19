@@ -5,7 +5,7 @@
 🔬 **Aspiring Researcher
 📍 Mexico  
 
-📧 frederick.felix@outlook.com  
+📧 axel.felix@cinvestav.mx
 
 ---
 
