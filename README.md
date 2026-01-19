@@ -89,11 +89,15 @@ I have participated in **academic research projects**, **published peer-reviewed
 ---
 ## 📊 Research Impact
 
-![Citations](https://scholar-badge.vercel.app/citations?user=d2Zqdf0AAAAJ)
-![h-index](https://scholar-badge.vercel.app/h-index?user=d2Zqdf0AAAAJ)
-![i10-index](https://scholar-badge.vercel.app/i10-index?user=d2Zqdf0AAAAJ)
+<p align="left">
+  <img src="https://scholar-badge.vercel.app/citations?user=d2Zqdf0AAAAJ" alt="Citations" />
+  <img src="https://scholar-badge.vercel.app/h-index?user=d2Zqdf0AAAAJ" alt="h-index" />
+  <img src="https://scholar-badge.vercel.app/i10-index?user=d2Zqdf0AAAAJ" alt="i10-index" />
+</p>
 
-🔗 **Google Scholar:** https://scholar.google.com/citations?user=d2Zqdf0AAAAJ&hl=es
+🔗 <strong>Google Scholar:</strong>  
+https://scholar.google.com/citations?user=d2Zqdf0AAAAJ&hl=es
+
 
 ## 📄 Recent Publications
 
