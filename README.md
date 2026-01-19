@@ -87,8 +87,15 @@ I have participated in **academic research projects**, **published peer-reviewed
 - Development of custom AI solutions for research in robotics and automation.
 
 ---
+## 📊 Research Impact
 
-## 📄 Publications
+![Citations](https://scholar-badge.vercel.app/citations?user=d2Zqdf0AAAAJ)
+![h-index](https://scholar-badge.vercel.app/h-index?user=d2Zqdf0AAAAJ)
+![i10-index](https://scholar-badge.vercel.app/i10-index?user=d2Zqdf0AAAAJ)
+
+🔗 **Google Scholar:** https://scholar.google.com/citations?user=d2Zqdf0AAAAJ&hl=es
+
+## 📄 Recent Publications
 
 Although I am currently a graduate student, I have actively participated in academic research and co-authored peer-reviewed publications:
 
